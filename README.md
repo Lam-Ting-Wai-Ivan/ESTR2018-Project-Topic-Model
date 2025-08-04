@@ -5,3 +5,6 @@ In this project, we focus on topic models, Top2Vec and Latent Dirichlet Allocati
 
 If you wish to directly open the code in colab, you can access that by clicking this: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)([https://colab.research.google.com/github/weiji14/deepbedmap/]
 ](https://colab.research.google.com/drive/10QwvrjZqSAMCLHvqkJIJmDysRMGECoBv?usp=sharing)
+
+Updated 4/8/2025
+- For now, the `.iptnb` in this repositiory cannot be previewed due to bugs in Github, as suggested from other developers online. Please use the colab link instead, thank you!
